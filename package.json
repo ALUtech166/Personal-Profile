@@ -1,0 +1,22 @@
+{
+  "name": "personal-profile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALUtech166/Personal-Profile.git"
+  },
+  "author": "Serge Tassiga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ALUtech166/Personal-Profile/issues"
+  },
+  "homepage": "https://github.com/ALUtech166/Personal-Profile#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
